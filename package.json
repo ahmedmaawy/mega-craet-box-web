@@ -1,0 +1,17 @@
+{
+  "name": "mega-craet-box",
+  "version": "1.0.0",
+  "description": "Mega Craet Box Web App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed Maawy",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.11.0"
+  }
+}
